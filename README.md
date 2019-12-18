@@ -25,5 +25,5 @@
 ![none](https://github.com/Kseniia-68/kursovaja/blob/master/4.PNG)
 ![none](https://github.com/Kseniia-68/kursovaja/blob/master/5.PNG)
 ![none](https://github.com/Kseniia-68/kursovaja/blob/master/6.PNG)
-![none](https://github.com/Kseniia-68/kursovaja/blob/master/2.PNG)
-![none](https://github.com/Kseniia-68/kursovaja/blob/master/2.PNG)
+![none](https://github.com/Kseniia-68/kursovaja/blob/master/7.PNG)
+
