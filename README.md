@@ -19,4 +19,4 @@
 Цель моделирования: отследить последовательность операций от подачи заявки на приобретение определенного оборудования до его получения
 
 
-![none](https://github.com/Kseniia-68/Ksenia-68.github.io/blob/master/3.png)
+![none](https://github.com/Kseniia-68/kursovaja/blob/master/1.PNG)
