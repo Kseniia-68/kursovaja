@@ -27,3 +27,4 @@
 ![none](https://github.com/Kseniia-68/kursovaja/blob/master/6.PNG)
 ![none](https://github.com/Kseniia-68/kursovaja/blob/master/7.PNG)
 
+## Построение ERD-диаграммы для всех потоков
