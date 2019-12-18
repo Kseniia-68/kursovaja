@@ -32,3 +32,4 @@
 ## Построение ERD-диаграммы для всех ролей
 ![none](https://github.com/Kseniia-68/kursovaja/blob/master/%D1%80%D0%BE%D0%BB%D0%B8.PNG)
 ## Построение ERD-диаграммы для всех модулей
+![none](https://github.com/Kseniia-68/kursovaja/blob/master/%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C.PNG)
