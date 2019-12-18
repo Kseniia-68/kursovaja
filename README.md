@@ -28,7 +28,7 @@
 ![none](https://github.com/Kseniia-68/kursovaja/blob/master/7.PNG)
 
 ## Построение ERD-диаграммы для всех потоков
-![none](https://github.com/Kseniia-68/kursovaja/blob/master/%D1%80%D0%BE%D0%BB%D0%B8.PNG)
+![none](https://github.com/Kseniia-68/kursovaja/blob/master/%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%B8.PNG)
 ## Построение ERD-диаграммы для всех ролей
 ![none](https://github.com/Kseniia-68/kursovaja/blob/master/%D1%80%D0%BE%D0%BB%D0%B8.PNG)
 ## Построение ERD-диаграммы для всех модулей
