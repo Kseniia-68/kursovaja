@@ -37,6 +37,10 @@
 ## Расчет невыровненных функциональных точек:
 ![none](https://github.com/Kseniia-68/kursovaja/blob/master/%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82.PNG)
 
+Определение числовых показателей для трудозатрат на разработку программных средств:
+
+Методом FPA/IFPUG
+
 # КУРСОВАЯ 
 ![none](https://github.com/Kseniia-68/kursovaja/blob/master/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F.docx)
 
