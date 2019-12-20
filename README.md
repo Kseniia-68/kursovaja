@@ -24,7 +24,7 @@
 ![none](https://github.com/Kseniia-68/kursovaja/blob/master/3.PNG)
 ![none](https://github.com/Kseniia-68/kursovaja/blob/master/4.PNG)
 ![none](https://github.com/Kseniia-68/kursovaja/blob/master/%D0%B4%D1%84%D0%B43.PNG)
-![none](https://github.com/Kseniia-68/kursovaja/blob/master/6.PNG)
+![none](https://github.com/Kseniia-68/kursovaja/blob/master/%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%20%D0%B7%D0%B0%D0%BA%D1%83%D0%BF%D0%BA%D0%B8.PNG)
 ![none](https://github.com/Kseniia-68/kursovaja/blob/master/7.PNG)
 
 ## Построение ERD-диаграммы для всех потоков
